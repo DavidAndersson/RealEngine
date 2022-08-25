@@ -5,7 +5,7 @@
 
 
 #include "RealEngine/Application.h";
-
+#include "RealEngine/Log.h"
 
 
 //---- Entry Point ------
